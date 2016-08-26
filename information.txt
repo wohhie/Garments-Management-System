@@ -1,0 +1,6 @@
+
+
+/*SALARY INFORMATION*/
+
+packaging = $8000/per Month
+iron = $9500/per Month
